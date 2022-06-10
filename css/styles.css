@@ -2,14 +2,28 @@
   body {
     background-color: #EAF6F6;
   }
+
+
+  img {
+    height: 330px;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
+
   hr {
     border-style: dotted none none;
     height: 0px;
     border-color: white;
     border-width: 8px;
-    width: 8%;
+    width: 10%;
   }
 
-  img {
-    height: 330px;
+  a {
+    color: #66BFBF;
   }
